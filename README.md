@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Amalser_v2+WA+Bot+repo;Created+by+Amal;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+psyashidv1+WA+Bot+repo;Created+by+Ashid;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -9,11 +9,11 @@
 <img src="https://media.giphy.com/media/QoXw903mHLu4mqPfLd/giphy.gif?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/psyashidv1"><img title="psyashidv1" src="https://img.shields.io/badge/Author-Ashid-psyashidv1/psyashidv1?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/psyashidv1">psyashidv1</a> to make it public
     <br>
        | © |
         Reserved |
@@ -25,17 +25,17 @@ Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/psyashidv1/psyashidv1) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@psyashiddqz/Ashid)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/psyashidv1/psyashidv1
+$ cd psyashidv1
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -43,8 +43,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/psyashidv1/psyashidv1
+$ cd psyashidv1
 $ npm i
 $ node julie.js
 ```
@@ -52,26 +52,26 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="httsp://github.com/psyashid-dqz/Ashid">
     
-<a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/psyashid-dqz/followers">
+<img src="https://img.shields.io/github/repo-size/psyashid-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/farhan-dqz/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/psyashid-dqz/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/psyashid-dqz?color=blue&style=flat-square"></a>
+<a href="https://github.com/psyashid-dqz/Ashid/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/psyashid-dqz/Ashid?color=blue&style=flat-square"></a>
+<a href="https://github.com/psyashid-dqz/Ashid/network/members"><img title="Forks" src="https://img.shields.io/github/forks/psyashid-dqz/Ashid?color=blue&style=flat-square"></a>
+<a href="https://github.com/psyashid-dqz/Ashid/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/psyashid-dqz/Ashid?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Lvtl7GqERfP19Na6M2wndX)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/InmjpA2Jy7Q7xEgVkqT4NK)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psyashid-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/psyashid-dqz/Julie-Mwol)
   </div>
     
 ### ⚠️ Warning! 
@@ -85,9 +85,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/cyberchekuthan.png?size=100)](https://github.com/cyberchekuthan) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![psyashid-Dqz](https://github.com/psyashid-dqz.png?size=100)](https://github.com/psyashid-dqz) | [![AshidSER](https://github.com/psyashidv1.png?size=100)](https://github.com/psyashidv1) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/cyberchekuthan) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[psyashid-dqz](https://github.com/psyashid-dqz) | [AshidSER](https://github.com/psyashidv1) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
